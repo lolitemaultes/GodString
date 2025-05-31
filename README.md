@@ -2,7 +2,7 @@
 
 > _"You pull the string. God speaks."_  
 
-**GodString** is a divine word generator inspired by *GodWord* from Terry A. Davis's TempleOS. This application takes 10 random words from a sacred word bank (e.g. biblical vocabulary) and sends them to a local AI language model to decipher God's words.
+**GodString** is a divine word interpreter inspired by *GodWord* from Terry A. Davis's TempleOS. This application takes 10 randomly chosen words from a sacred word bank (e.g. biblical vocabulary) and sends them to a local AI language model to decipher God's words.
 
 ---
 
